@@ -17,3 +17,11 @@ llama-server.exe
  
  node --version
 v23.6.1
+
+## other
+
+- text to img bb
+- img to text up/api@
+- aud to text wsp
+- text to aud ^^^^@(translate)
+- text to text ol/loc@/api@
